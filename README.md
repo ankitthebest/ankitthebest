@@ -30,5 +30,5 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 #### Connect with me on - 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankit-pandit-26b15b1b9) 
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:ankit03111996@gmail.com)
